@@ -1,0 +1,133 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-color1 {
+    background-color: #1b1b1b;
+    height: 125vh;
+    padding: 75px;
+}
+
+.image1 {
+    height: 250px;
+}
+
+.head1 {
+    color: #ffffff;
+    font-family: "Bree Serif";
+    font-size: 35px;
+
+}
+
+.card-cont1 {
+    background-color: #e6f6ff;
+    border-radius: 10px;
+
+}
+
+.card2 {
+    margin: 15px;
+}
+
+.head2 {
+    color: #183b56;
+    font-family: "Bree Serif";
+    font-size: 25px;
+}
+
+.descp1 {
+    color: #06070d;
+    font-family: "Bree Serif";
+    font-size: 25px;
+}
+
+.descp2 {
+    color: #183b56;
+    font-family: "Bree Serif";
+    font-size: 15px;
+}
+
+.head3 {
+    color: #ffffff;
+    font-family: "Bree Serif";
+    font-size: 25px;
+}
+
+.descp3 {
+    color: #ffffff;
+    font-family: "Bree Serif";
+    font-size: 20px;
+}
+
+.head10 {
+    margin: 15px;
+    color: #ffffff;
+    font-family: "Bree Serif";
+    font-size: 35px;
+}
+
+.card3 {
+    margin-left: 15px;
+}
+
+.image2 {
+    height: 150px;
+}
+
+.bg-color {
+    background-color: #1b1b1b;
+    height: 100vh;
+}
+
+.sub-image {
+    height: 50vh;
+}
+
+.heading7 {
+    color: #ffffff;
+    font-family: "Bree Serif";
+    font-size: 35px;
+    margin: 10px;
+}
+
+.descp7 {
+    color: #9aa5b1;
+    font-family: "Roboto";
+    font-size: 15px;
+    margin: 10px;
+
+}
+
+.card10 {
+    margin: 15px;
+}
+
+.para7 {
+    color: #ffffff;
+    font-family: "Bree Serif";
+    font-size: 17px;
+}
+
+.button7 {
+    margin: 20px;
+
+
+}
+
+.button1 {
+    color: #06070d;
+    background-color: orange;
+    height: 35px;
+    width: 80px;
+    border-radius: 5px;
+    border-width: 0px;
+    margin: 5px;
+}
+
+.button2 {
+    color: #ffffff;
+    background-color: blue;
+    height: 35px;
+    width: 120px;
+    border-radius: 5px;
+    border-width: 0px;
+    margin: 5px;
+}
